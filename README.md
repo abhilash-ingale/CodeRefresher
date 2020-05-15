@@ -1,2 +1,2 @@
-# pyBasics
-A refresher repository for Python basics
+# Code Refresher Archive
+A refresher repository for revising the built-in tools in Python, Matlab and C++.
